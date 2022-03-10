@@ -50,6 +50,8 @@ Global options (use these before the subcommand, if any):
 ----------------------------------------------------------------------------------------------------------------------------------
   Provider: AWS
   
+  Registry: https://registry.terraform.io/browse/providers
+  
   # 1. Create 2 EC2 Instances under Auto-Scaling-Group
   
   
